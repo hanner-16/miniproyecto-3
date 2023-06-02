@@ -1,0 +1,5 @@
+1|Juan Perez|Estudiante
+2|María García|Profesor
+3|Pedro López|Empleado
+4|Ana Rodríguez|Estudiante
+5|Carlos Martínez|Profesor
